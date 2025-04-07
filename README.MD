@@ -14,3 +14,8 @@ The performance of the closed-form solution depends on the `slice_size` paramete
 - `slice_size = 16`: **90.39%**
 - `slice_size = 32`: **93.05%**
 - `slice_size = 64`: **9%**
+
+## Run
+To run the closed form linear solution
+```bash
+python3 closed_form_linear_lora.py
