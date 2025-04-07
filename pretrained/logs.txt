@@ -1,0 +1,2 @@
+Epoch 20/20, Loss: 0.0248, Accuracy: 99.13%
+Test Accuracy: 97.35%
